@@ -9,22 +9,12 @@ Hi there 👋
 
 
 <div>
- <img height="150em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasoulima&layout=compact">
+<img height="150em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasoulima&layout=compact">
 
 <img height="150em" src= "https://github-readme-stats.vercel.app/api?username=leticiasoulima&theme=dark&show_icons=true">
 </div>
 
 ----
-
-### You can find me
-
-<a href= "https://www.linkedin.com/in/leticiasoulima">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align= "center" heigth="50" width="60>
-
-</a>
-
------------------------------------------------------------
-
 
 ### Skills
 
@@ -40,3 +30,12 @@ Hi there 👋
 <img scr="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
 </div>
+
+--------------------------------
+
+### You can find me
+
+<a href= "https://www.linkedin.com/in/leticiasoulima">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align= "center" heigth="50" width="60>
+
+</a>
