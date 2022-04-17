@@ -16,14 +16,17 @@ Hi there 👋
 
 ----
 ## You can find me
+
 <a href= "https://www.linkedin.com/in/leticiasoulima">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align= "center" heigth="50" width="60>
 
 </a>
 
------
+-----------------------------------------------------------
+
 
 ## Programming Languages
+
 <div> 
 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> 
