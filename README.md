@@ -34,8 +34,6 @@ Hi there 👋
 --------------------------------
 
 ### You can find me
-
 <a href= "https://www.linkedin.com/in/leticiasoulima">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align= "center" heigth="50" width="60>
-
 </a>
