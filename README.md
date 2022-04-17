@@ -21,13 +21,16 @@ Hi there 👋
 
 </a>
 
-## Programming Languages
+----
 
- <div> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align= "center" heigth="50" width="60">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align= "center" heigth="50" width="60"><img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" align= "center" heigth="50" width="60">
-    <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align= "center" heigth="50" width="60">
-    <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" align= "center" heigth="50" width="60">
-    <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c-plain.svg" align="center" heigth="50" width="60"> 
-    <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" align="center" heigth="50" width="60">
+## Programming Languages
+<div> 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align= "center" heigth="50" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align= "center" heigth="50" width="60">
+<img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align= "center" heigth="50" width="60">
+<img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align= "center" heigth="50" width="60">
+<img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" align= "center" heigth="50" width="60">
+<img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c-plain.svg" align="center" heigth="50" width="60"> 
+<img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" align="center" heigth="50" width="60">
 </div>
