@@ -21,16 +21,17 @@ Hi there 👋
 
 </a>
 
-----
 
 ## Programming Languages
 <div> 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align= "center" heigth="50" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align= "center" heigth="50" width="60">
-<img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align= "center" heigth="50" width="60">
-<img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align= "center" heigth="50" width="60">
-<img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" align= "center" heigth="50" width="60">
-<img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c-plain.svg" align="center" heigth="50" width="60"> 
-<img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" align="center" heigth="50" width="60">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> 
+<img scr="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img scr="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+
 </div>
