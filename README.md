@@ -1,6 +1,6 @@
 Hi there 👋
 
-🌱 Currently, I'm learning **Python, R, and Statistics.** Besides that, I'm studying to get my **college degree in Systems Analysis & Development.**
+🌱 Currently, I'm learning **Python, R, and Statistics.** Besides that, I'm studying to get my **college degree in Systems Development & Analysis.**
 
 🔭 I am actively searching for a job/intern position that will let me continue to build my skills.
 
